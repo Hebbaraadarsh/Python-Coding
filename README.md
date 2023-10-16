@@ -1,2 +1,2 @@
 # Python-Coding
-List of Python coding problems on from Beginners-Advanced
+List of Python coding problems from Beginners-Advanced
